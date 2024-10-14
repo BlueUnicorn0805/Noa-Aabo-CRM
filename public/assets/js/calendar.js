@@ -1,0 +1,1 @@
+$((function(e){"use strict";$(".select2-show-search").select2({minimumResultsForSearch:1/0,width:"100%"}),$("#bootstrapDatePicker").datepicker({autoclose:!0,format:"dd-mm-yyyy"}).datepicker("update",new Date),$("#tp3").timepicker(),$(document).on("click","#setTimeButton",(function(){$("#tp3").timepicker("setTime",new Date)}))}));
