@@ -1,6 +1,6 @@
 
 		<!-- TITLE -->
-		<title>Noa - Laravel Bootstrap 5 Admin & Dashboard Template</title>
+		<title>AABO-CRM</title>
 
         <!-- FAVICON -->
         <link rel="shortcut icon" type="image/x-icon" href="{{asset('assets/images/brand/favicon.ico')}}" />
